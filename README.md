@@ -114,6 +114,22 @@ After launching, select a module from the interactive menu.
 | ⚙️ Settings | ✅ | Customizable application settings |
 | 🧩 Plugin Support | 🚧 | Planned for future releases |
 
+
+# 📦 Requirements
+
+- Python 3.10 or later
+- Git
+- Internet connection
+- Linux or Termux environment
+
+## Python Packages
+
+- rich
+- requests
+- phonenumbers
+- python-whois
+- dnspython
+
 ### 📧 Email Intelligence
 
 - Email validation
