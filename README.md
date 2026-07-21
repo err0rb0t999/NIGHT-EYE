@@ -89,6 +89,16 @@ bash install.sh
 
 python3 main.py
 ```
+# ⚡ Quick Start
+
+After installation:
+
+```bash
+python main.py
+```
+
+Select a module from the interactive menu and start your analysis.
+
 # 🚀 Usage
 
 Start NIGHT-EYE
