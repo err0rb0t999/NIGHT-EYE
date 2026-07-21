@@ -75,6 +75,30 @@ bash install.sh
 
 python3 main.py
 ```
+# 🚀 Usage
+
+Start NIGHT-EYE
+
+```bash
+python main.py
+```
+
+After launching, select a module from the interactive menu.
+
+| Option | Module |
+|--------|--------|
+| 01 | 📱 Phone Intelligence |
+| 02 | 📧 Email Intelligence |
+| 03 | 👤 Username Intelligence |
+| 04 | 🌐 Domain Intelligence |
+| 05 | 🌍 IP Intelligence |
+| 06 | 📂 Metadata Analysis |
+| 07 | 📊 Reports |
+| 08 | ⚙️ Settings |
+| 09 | 🧩 Plugins |
+| 10 | 📈 Dashboard |
+| 11 | 🎨 Theme Manager |
+| 00 | ❌ Exit |
 
 ### 📧 Email Intelligence
 
