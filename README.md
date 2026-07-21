@@ -100,6 +100,20 @@ After launching, select a module from the interactive menu.
 | 11 | 🎨 Theme Manager |
 | 00 | ❌ Exit |
 
+# ✨ Features
+
+| Feature | Status | Description |
+|----------|:------:|-------------|
+| 📱 Phone Intelligence | ✅ | Analyze and validate phone numbers |
+| 📧 Email Intelligence | ✅ | Validate email addresses and inspect domains |
+| 🌐 Domain Intelligence | ✅ | WHOIS, DNS and SSL information |
+| 🌍 IP Intelligence | ✅ | IP geolocation and network information |
+| 📊 Dashboard | ✅ | Interactive terminal dashboard |
+| 📁 Reports | ✅ | Export reports in JSON and HTML |
+| 🎨 Theme Manager | ✅ | Multiple terminal themes |
+| ⚙️ Settings | ✅ | Customizable application settings |
+| 🧩 Plugin Support | 🚧 | Planned for future releases |
+
 ### 📧 Email Intelligence
 
 - Email validation
