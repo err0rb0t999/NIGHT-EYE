@@ -1,29 +1,192 @@
+# 👁 NIGHT-EYE
+
+<p align="center">
+  <b>Professional Digital Intelligence & Open Source Intelligence (OSINT) Framework</b>
+</p>
+
+<p align="center">
+Built with ❤️ in Python by <b>M00N</b>
+</p>
+
+---
+
+## 🚀 Overview
+
+NIGHT-EYE is a modern Digital Intelligence & Open Source Intelligence (OSINT) framework designed for security researchers, developers, students, and cybersecurity enthusiasts.
+
+The framework focuses on collecting, validating, and presenting publicly available information through a fast, modular, and professional command-line interface powered by Rich.
+
+---
+
+## ✨ Features
+
+### 📱 Phone Intelligence
+
+- Phone number validation
+- Country detection
+- Carrier detection
+- Timezone detection
+- International & National formatting
+- JSON reports
+- HTML reports
+
+---
+
+### 📧 Email Intelligence
+
+- Email validation
+- MX Record lookup
+- SPF check
+- DKIM detection
+- DMARC detection
+- Disposable email detection
+
+---
+
+### 🌐 Domain Intelligence
+
+- WHOIS lookup
+- DNS Records
+- SSL Certificate Summary
+- HTTP Headers
+- Security Headers
+
+---
+
+### 🌍 IP Intelligence
+
+- IP Geolocation
+- ASN Information
+- ISP Information
+- Reverse DNS
+- Organization Details
+
+---
+
+### 📂 Metadata Analysis
+
+- Image Metadata
+- PDF Metadata
+- Document Metadata
+
+---
+
+### 📊 Reporting
+
+- HTML Reports
+- JSON Reports
+- CSV Export
+- Rich CLI Tables
+
+---
+
+## ⚡ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/err0rb0t999/NIGHT-EYE.git
+```
+
+Enter the directory
+
+```bash
+cd NIGHT-EYE
+```
+
+Install dependencies
+
+```bash
+bash install.sh
+```
+
+Run
+
+```bash
+python main.py
+```
+
+---
+
+## 🖥 Preview
+
+```
 👁 NIGHT-EYE
 
 Professional Digital Intelligence & OSINT Framework
 
-Badges
+✔ Phone Intelligence
+✔ Email Intelligence
+✔ Domain Intelligence
+✔ IP Intelligence
 
-Logo
+Engineered by M00N
+```
 
-Screenshot
+---
 
-Features
+## 📁 Project Structure
 
-Installation
+```
+NIGHT-EYE
+│
+├── modules/
+├── utils/
+├── config/
+├── data/
+├── exports/
+├── logs/
+├── banner.py
+├── main.py
+├── install.sh
+└── requirements.txt
+```
 
-Usage
+---
 
-Modules
+## 🛣 Roadmap
 
-Examples
+- Advanced Phone Intelligence
+- Advanced Email Intelligence
+- Plugin System
+- Dashboard
+- PDF Reports
+- REST API
+- Auto Update
+- Theme Marketplace
 
-Roadmap
+---
 
-Contributing
+## 🤝 Contributing
 
-License
+Contributions, suggestions, and bug reports are welcome.
 
-Author
+Feel free to open an Issue or submit a Pull Request.
 
-Support
+---
+
+## 📄 License
+
+This project is released under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**M00N**
+
+Developer of NIGHT-EYE
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+It helps the project grow and motivates future development.
+
+---
+
+> **Disclaimer**
+>
+> NIGHT-EYE is intended for legitimate security research, learning, and authorized testing only. Users are responsible for ensuring their use complies with applicable laws and respects privacy.
