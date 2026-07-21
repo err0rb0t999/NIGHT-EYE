@@ -10,6 +10,12 @@ Built with ❤️ in Python by <b>M00N</b>
 
 ---
 
+## 📸 Screenshots
+
+### Home Screen
+
+![NIGHT-EYE Home](assets/screenshots/home.jpg)
+
 ## 🚀 Overview
 
 NIGHT-EYE is a modern Digital Intelligence & Open Source Intelligence (OSINT) framework designed for security researchers, developers, students, and cybersecurity enthusiasts.
