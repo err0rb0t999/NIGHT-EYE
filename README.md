@@ -386,3 +386,9 @@ It helps the project grow and motivates future development.
 If you find NIGHT-EYE useful, consider giving the repository a ⭐.
 
 Feedback, bug reports, and feature suggestions are always appreciated.
+
+# ⚠️ Disclaimer
+
+NIGHT-EYE is intended for educational purposes, security research, and authorized investigations only.
+
+Users are responsible for complying with applicable laws and respecting privacy when using this software.
