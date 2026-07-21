@@ -130,6 +130,15 @@ After launching, select a module from the interactive menu.
 - python-whois
 - dnspython
 
+# ✅ Tested Platforms
+
+| Platform | Status |
+|----------|:------:|
+| 📱 Termux | ✅ |
+| 🐉 Kali Linux | ✅ |
+| 🐧 Ubuntu | ✅ |
+| 🐧 Debian | ✅ |
+
 ### 📧 Email Intelligence
 
 - Email validation
