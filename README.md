@@ -24,6 +24,20 @@ The framework focuses on collecting, validating, and presenting publicly availab
 
 ---
 
+## 📑 Table of Contents
+
+- [Screenshots](#-screenshots)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Requirements](#-requirements)
+- [Tested Platforms](#-tested-platforms)
+- [Project Structure](#-project-structure)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
+
 ## ✨ Features
 
 ### 📱 Phone Intelligence
