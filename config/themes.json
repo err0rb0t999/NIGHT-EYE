@@ -1,0 +1,27 @@
+{
+  "default": {
+    "primary": "cyan",
+    "secondary": "green",
+    "border": "bright_blue"
+  },
+  "matrix": {
+    "primary": "green",
+    "secondary": "bright_green",
+    "border": "green"
+  },
+  "neon": {
+    "primary": "bright_magenta",
+    "secondary": "bright_cyan",
+    "border": "bright_magenta"
+  },
+  "redline": {
+    "primary": "bright_red",
+    "secondary": "yellow",
+    "border": "red"
+  },
+  "light": {
+    "primary": "blue",
+    "secondary": "black",
+    "border": "white"
+  }
+}

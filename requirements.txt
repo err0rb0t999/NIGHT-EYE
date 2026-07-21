@@ -1,0 +1,17 @@
+rich
+requests
+beautifulsoup4
+phonenumbers
+python-whois
+dnspython
+colorama
+faker
+instaloader
+telethon
+googlesearch-python
+tabulate
+rich
+requests
+phonenumbers
+python-whois
+dnspython

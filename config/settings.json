@@ -1,0 +1,8 @@
+{
+    "theme": "light",
+    "timeout": 10,
+    "save_json": true,
+    "save_html": true,
+    "show_banner": true,
+    "check_internet": true
+}
