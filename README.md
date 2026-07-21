@@ -184,6 +184,20 @@ NIGHT-EYE
 - [ ] Performance Optimizations
 - [ ] Additional Intelligence Modules
 
+# 🤝 Contributing
+
+Contributions are welcome.
+
+If you'd like to improve NIGHT-EYE:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Commit your work.
+5. Open a Pull Request.
+
+Please keep contributions focused, well-documented, and tested whenever possible.
+
 ### 📧 Email Intelligence
 
 - Email validation
