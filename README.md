@@ -162,6 +162,28 @@ NIGHT-EYE
 └── main.py
 ```
 
+# 🛣️ Roadmap
+
+## Version 1.0
+- [x] Phone Intelligence
+- [x] Email Intelligence
+- [x] Domain Intelligence
+- [x] IP Intelligence
+- [x] Rich Terminal Interface
+- [x] HTML & JSON Reports
+
+## Version 1.1
+- [ ] Username Intelligence
+- [ ] Metadata Analysis
+- [ ] Improved Report Templates
+- [ ] Better Error Handling
+
+## Version 2.0
+- [ ] Plugin System
+- [ ] Multi-language Support
+- [ ] Performance Optimizations
+- [ ] Additional Intelligence Modules
+
 ### 📧 Email Intelligence
 
 - Email validation
