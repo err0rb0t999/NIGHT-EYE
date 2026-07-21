@@ -139,6 +139,29 @@ After launching, select a module from the interactive menu.
 | 🐧 Ubuntu | ✅ |
 | 🐧 Debian | ✅ |
 
+# 📂 Project Structure
+
+```text
+NIGHT-EYE
+│
+├── assets/
+│   └── screenshots/
+├── config/
+├── data/
+├── docs/
+├── exports/
+├── logs/
+├── modules/
+├── reports/
+├── utils/
+│
+├── install.sh
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── main.py
+```
+
 ### 📧 Email Intelligence
 
 - Email validation
